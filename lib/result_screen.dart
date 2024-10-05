@@ -60,9 +60,9 @@ class ResultScreen extends StatelessWidget {
                 style: TextButton.styleFrom(
                     iconColor: Colors.white,
                     foregroundColor: Colors.white,
-                    textStyle: TextStyle(fontSize: 18)),
+                    textStyle: const TextStyle(fontSize: 18)),
                 onPressed: resetScreen,
-                icon: Icon(Icons.restart_alt_rounded),
+                icon: const Icon(Icons.restart_alt_rounded),
                 label: const Text("Restart Quiz"))
           ],
         ),

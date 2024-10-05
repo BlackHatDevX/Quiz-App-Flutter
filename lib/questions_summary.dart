@@ -28,10 +28,11 @@ class QuestionsSummary extends StatelessWidget {
                                   ? const Color.fromARGB(255, 149, 249, 153)
                                   : const Color.fromARGB(255, 237, 124, 116),
                               borderRadius:
-                                  BorderRadius.all(Radius.circular(100))),
+                                  const BorderRadius.all(Radius.circular(100))),
                           child: Text(
                               textAlign: TextAlign.center,
-                              style: TextStyle(fontWeight: FontWeight.bold),
+                              style:
+                                  const TextStyle(fontWeight: FontWeight.bold),
                               ((data['question_index'] as int) + 1).toString()),
                         ),
                         const SizedBox(width: 20),
@@ -41,7 +42,7 @@ class QuestionsSummary extends StatelessWidget {
                               children: [
                                 Text(
                                   data['question'] as String,
-                                  style: TextStyle(
+                                  style: const TextStyle(
                                     color: Colors.white,
                                     fontWeight: FontWeight.bold,
                                   ),
@@ -50,14 +51,14 @@ class QuestionsSummary extends StatelessWidget {
                                   height: 5,
                                 ),
                                 Text(
-                                    style: TextStyle(
-                                        color: const Color.fromARGB(
-                                            255, 240, 189, 189)),
+                                    style: const TextStyle(
+                                        color:
+                                            Color.fromARGB(255, 240, 189, 189)),
                                     data['user_answer'] as String),
                                 Text(
-                                    style: TextStyle(
-                                        color: const Color.fromARGB(
-                                            255, 189, 240, 218)),
+                                    style: const TextStyle(
+                                        color:
+                                            Color.fromARGB(255, 189, 240, 218)),
                                     data['correct_answer'] as String),
                               ]),
                         )
