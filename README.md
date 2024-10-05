@@ -1,16 +1,43 @@
-# quizapp
+# Quiz App - Flutter
 
-A new Flutter project.
+A beautiful and interactive quiz app built using Flutter, supporting both Android and iOS. The app features multiple-choice questions (MCQs) with randomized options and displays the results along with correct answers.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Beautiful UI**: A visually appealing and user-friendly interface.
+- **Cross-Platform Support**: Works seamlessly on both iOS and Android devices.
+- **MCQs**: Answer multiple-choice questions from a variety of topics.
+- **Randomized Options**: The answer choices are randomized each time a question is displayed, enhancing the challenge.
+- **Results Display**: After completing the quiz, see your score and review the correct answers.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run this app locally, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/BlackHatDevX/quiz-app-flutter.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd quiz-app-flutter
+   ```
+3. Get the dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Screenshots
+
+## Credits
+
+- **Developed by**: [Jash Gro](https://bit.ly/jashgro)
+- **LinkedIn**: [Jash Gro](https://www.linkedin.com/in/jash-gro/)
+
+## License
+
+This project is licensed under the MIT License.
