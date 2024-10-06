@@ -35,11 +35,11 @@ To run this app locally, follow these steps:
 
 <img width="1470" alt="Screenshot 2024-10-06 at 2 41 38 AM" src="https://github.com/user-attachments/assets/1d01894b-6d32-4fe3-8efa-59a559df42d6">
 
-<img width="300" alt="Screenshot 2024-10-06 at 3 08 17 AM" src="https://github.com/user-attachments/assets/4562e452-2150-499b-b3cb-de777fba11d5">
+<img width="200" alt="Screenshot 2024-10-06 at 3 08 17 AM" src="https://github.com/user-attachments/assets/4562e452-2150-499b-b3cb-de777fba11d5">
 
-<img width="300" alt="Screenshot 2024-10-06 at 2 42 05 AM" src="https://github.com/user-attachments/assets/897f7377-ddd2-4dbc-9658-995eafd10cd8">
+<img width="200" alt="Screenshot 2024-10-06 at 2 42 05 AM" src="https://github.com/user-attachments/assets/897f7377-ddd2-4dbc-9658-995eafd10cd8">
 
-<img width="300" alt="Screenshot 2024-10-06 at 2 43 14 AM" src="https://github.com/user-attachments/assets/28bc1009-1ce7-41b1-9769-cfbe032a83fe">
+<img width="200" alt="Screenshot 2024-10-06 at 2 43 14 AM" src="https://github.com/user-attachments/assets/28bc1009-1ce7-41b1-9769-cfbe032a83fe">
 
 
 ## Credits
